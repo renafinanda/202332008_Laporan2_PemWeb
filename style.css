@@ -1,0 +1,35 @@
+/* Style untuk elemen <h2> class="nama" */
+.nama {
+    color: papayawhip;         /* Warna teks krem */
+    background-color: rgb(72, 21, 72);/* Background ungu */
+    font-weight: bold;     /* Teks tebal */
+    padding: 5px;          /* Jarak dalam */
+}
+
+/* Style untuk elemen dengan ID nim */
+#nim {
+    color: rgb(72, 21, 72);           /* Warna teks ungu */
+    font-weight: bold;     /* Teks tebal */
+}
+
+/*Style untuk kedua paragraf*/
+p {
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+/* Style untuk menyoroti kata "ipsum" dengan latar belakang biru dan teks italic */
+.highlight-ungu {
+    background-color: rgb(72, 21, 72); /* Background ungu */
+    color: papayawhip;           /* Warna teks krem agar kontras */
+    font-style: italic;     /* Italic */
+    padding: 2px;
+}
+
+/* Style untuk menyoroti kata "amet" dengan latar belakang kuning dan teks italic */
+.highlight-krem {
+    background-color: papayawhip; /* Background krem */
+    font-style: italic;       /* Italic */
+    padding: 2px;
+}
